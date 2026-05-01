@@ -21,8 +21,10 @@ A PowerShell-based enterprise monitoring tool designed for real-time tracking of
 - **Enterprise Ready:** Compiled `.exe` build with a professional minimalist icon.
 
 ## 🛠 Tech Stack
-- **Language:** PowerShell v7.x / .NET
+- **Language:** PowerShell v5.1 (Windows PowerShell)
 - **GUI:** WinForms with P/Invoke (DWM API for Dark Mode)
+- **Engine:** Asynchronous Runspaces for non-blocking UI
+- **Environment:** Developed in PowerShell ISE
 - **Compilation:** PS2EXE (x64 Architecture)
 
 ## 📅 Roadmap & Progress
