@@ -1,4 +1,10 @@
 # SynoGuard-PS 🛡️ | Total Black Edition
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
+![UI](https://img.shields.io/badge/UI-WinForms-orange.svg)
+![Status](https://img.shields.io/badge/Status-Stable-green.svg)
+
 **Automated Health & RAID Monitoring Solution for Synology NAS**
 
 ## 📋 Overview
