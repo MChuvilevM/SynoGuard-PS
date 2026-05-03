@@ -82,8 +82,12 @@
 
 <div align="center">
   <br>
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Cuth3r3) 
-  [![Habr](https://img.shields.io/badge/Habr_Career-808080?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/chuvilev_mm)
+  <a href="https://t.me/Cuth3r3">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://career.habr.com/chuvilev_mm">
+    <img src="https://img.shields.io/badge/Habr_Career-808080?style=for-the-badge&logo=habr&logoColor=white" alt="Habr">
+  </a>
   <br>
   <br>
   <i>"Built for stability. Designed for performance."</i> ᛉ
